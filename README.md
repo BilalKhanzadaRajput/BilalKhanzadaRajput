@@ -12,4 +12,4 @@
 - Familiar with agile development methodologies for efficient project management. 🔄
 - Strong problem-solving skills and attention to detail. 🔍
 - Dedicated to continuous learning and staying updated with the latest Flutter trends and technologies. 📚
-- Let's connect on [LinkedIn] (https://www.linkedin.com/in/bilal-khanzada-09088b238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_apputm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for Flutter discussions, collaborations, or just to say hello! 🚀📱💻
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/bilal-khanzada-09088b238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_apputm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for Flutter discussions, collaborations, or just to say hello! 🚀📱💻
