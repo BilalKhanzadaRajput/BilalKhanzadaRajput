@@ -3,7 +3,7 @@
 
 
 
-- A passionate Flutter developer with 6+ months of experience. 💼
+- A passionate Flutter developer with over a year of experience. 💼
 - Specializing in Dart, UI/UX design, and efficient state management using Getx. 🎨
 - Skilled in crafting stunning, high-performance cross-platform mobile apps. 📱✨
 - Proficient in Firebase for backend and APIs. 🌐
